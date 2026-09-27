@@ -1,0 +1,6 @@
+{
+  "name": "Roll Call",
+  "description": "Global 1-on-1 random video, voice, and ephemeral chat with gender-filtered matchmaking, strict anti-recording protection, and ranked leaderboards.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

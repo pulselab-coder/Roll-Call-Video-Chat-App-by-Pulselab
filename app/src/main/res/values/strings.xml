@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Roll Call</string>
+    <string name="tagline_global_chat">1:1 Ephemeral Global Video, Voice &amp; Chat</string>
+    <string name="nav_home">Roll Call</string>
+    <string name="nav_chat">1:1 Chat</string>
+    <string name="nav_leaderboard">Rankings</string>
+    <string name="nav_store">Vault &amp; Store</string>
+    <string name="nav_safety">Safety &amp; Spec</string>
+    <string name="btn_start_roll_call">Start Roll Call</string>
+    <string name="btn_panic_safety">PANIC: END &amp; REPORT</string>
+    <string name="btn_skip_next">Skip / Next Match</string>
+    <string name="btn_end_call">End Call</string>
+    <string name="btn_flip_camera">Flip Camera</string>
+    <string name="btn_toggle_mute">Toggle Mute</string>
+    <string name="label_flag_secure_active">FLAG_SECURE Active • Screen &amp; Audio Recording Blocked</string>
+    <string name="label_age_gate_title">18+ Mandatory Age &amp; ID Verification</string>
+    <string name="label_leaderboard_locked">Earn 200 Points to Unlock Weekly Global Leaderboard</string>
+    <string name="label_ephemeral_notice">60s Ephemeral Media • No Saving • No Forwarding • 1:1 Only</string>
+    <string name="label_premium_upsell">Roll Call Pro ($19.99/mo) • Keep Media Forever &amp; Direct Rank Boosts</string>
+</resources>
